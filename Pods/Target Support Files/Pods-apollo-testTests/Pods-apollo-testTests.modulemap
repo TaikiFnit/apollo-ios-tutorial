@@ -1,6 +1,0 @@
-framework module Pods_apollo_testTests {
-  umbrella header "Pods-apollo-testTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
